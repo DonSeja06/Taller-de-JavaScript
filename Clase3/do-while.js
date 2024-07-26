@@ -1,6 +1,6 @@
 let n1=parseInt(prompt("Ingrese el primer número"));
 let n2=parseInt(prompt("Ingrese el segundo número"));
-let opc=0;
+let opc;
 
 do{
     console.log("[1] Sumar");
